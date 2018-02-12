@@ -2,7 +2,7 @@
 ## Power of Productivity
 When you install Ember (npm install ember-cli), you get the power of productivity.
 
-Just by running ember new my-app, here’s what you get by default:
+Just by running `ember new my-app`, here’s what you get by default:
 
 - Router
 - Resolver (automatically discovers modules based on a set naming convention)
