@@ -17,7 +17,7 @@ If it’s not included- it’s typically only a command away (via addons) - this
 
 1. Your team(s) will already have the benefit of increased productivity.
 2. Other teams have had this benefit as well; many have used some of this time to give back in the form of an addon that provides additional functionality.
-3. Because Ember embraces
+3. Because Ember embraces ....(talk about shared abstractions etc)
 
 
 ## The Learning Curve
